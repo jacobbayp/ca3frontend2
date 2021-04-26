@@ -18,5 +18,5 @@ echo "##############################"
 echo "Deploying Frontend project..."
 echo "##############################"
 
-scp -r ./build/* root@test.madebay.dk:/var/www/ca3frontend
+scp -r ./build/* root@test.madebay.dk:/var/www/html/ca3frontend
 

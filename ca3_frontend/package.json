@@ -29,7 +29,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "localhost:8080",
+  "homepage": "https://test.madebay.dk/ca3frontend",
   "browserslist": {
     "production": [
       ">0.2%",
